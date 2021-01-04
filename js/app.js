@@ -1,3 +1,5 @@
+"use strict";
+
 import users from "./user.js";
 
 // 1. Получить массив имен всех пользователей (поле name).
